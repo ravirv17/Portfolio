@@ -55,7 +55,7 @@ function App() {
               Ravi Shankar Poddar
             </h1>
             <p className="text-2xl sm:text-3xl text-blue-100 mb-8 font-light">
-              Software Developer & Problem Solver
+              Aspiring Software Developer
             </p>
             <div className="flex justify-center space-x-8">
               <motion.a 
