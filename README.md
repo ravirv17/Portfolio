@@ -1,1 +1,1 @@
-Made a portfolio website using TypeScript, Vite, React.js and TailwindCSS.
+A portfolio website using TypeScript, Vite, React.js and TailwindCSS.
