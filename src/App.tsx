@@ -198,6 +198,12 @@ function App() {
                 description: "Made a SONAR system using Arduino and Ultrasonic sensor that visualizes object in front of it and its distance on an app.",
                 tech: ["Arduino IDE", "Arduino", "IoT sensors", "Python", "Flask"],
                 link:"https://www.linkedin.com/posts/ravi-shankar-poddar-1aa982257_we-made-sonar-using-arduino-that-not-only-activity-7224099423612452864-HOI6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD9TcpIBPVr82t6FfKaD3b1qt-VN-7iHz-Y"
+              },
+              {
+                title: "Portfolio Website",
+                description: " Designed a responsive personal site showcasing projects.",
+                tech: ["TypeScript", "React.js", "Vite", "TailwindCSS"],
+                link:"https://github.com/ravirv17/Portfolio"
               }
             ].map((project, index) => (
               <motion.div
